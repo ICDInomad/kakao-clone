@@ -1,0 +1,10 @@
+.box {
+  background-color: red;
+  font-size: 40px;
+}
+.box:active {
+  background-color: pink;
+}
+input[type="submit"] {
+  background-color: red;
+}
